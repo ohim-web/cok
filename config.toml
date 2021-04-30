@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://ohim.vercel.app/"
+baseURL = "https://meweb.vercel.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "ohim"
